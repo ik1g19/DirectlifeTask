@@ -2,6 +2,6 @@ Run via
 
 ```dotnet script run.cs```
 
-Output it
+Output is
 
 ```Total Name Score: 871198282```
